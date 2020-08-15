@@ -1,6 +1,6 @@
 
 
-const bubbleSort = async (intArray) => {
+const bubbleSort = (intArray) => {
     for(let lastUnsortedIndex = intArray.length -1; lastUnsortedIndex > 0; lastUnsortedIndex--) {
         for(let i = 0; i < lastUnsortedIndex; i++){
             if(intArray[i] > intArray[i +1]) {
