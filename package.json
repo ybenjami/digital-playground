@@ -1,0 +1,12 @@
+{
+  "name": "cs101",
+  "version": "1.0.0",
+  "description": "Concepts in Algorithms ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youreOnYaron",
+  "license": "ISC"
+}
